@@ -66,9 +66,6 @@
 					<a href="${pageContext.request.contextPath}/imdb/setup.html">IMDB Set Up</a><br />
 				</div>
 	
-				<div class="col-lg-12">
-					<a href="${pageContext.request.contextPath}/charts"><fmt:message key="Charts"/></a><br />
-				</div>
 			</div>
 			
 			
